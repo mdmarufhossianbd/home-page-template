@@ -48,3 +48,25 @@ body{
     color: #444343;
     width: 494px;
 }
+
+/* section 2 */
+.section2_child{
+    display: flex;
+    align-items: center;
+    /* margin-top: 150px; */
+
+}
+.user_picture_shadow{
+    position: relative;
+    top: 140px;
+    left: 230px;
+    width: 527.929px;
+    height: 527.929px;
+    border-radius: 527.929px;
+    background: rgba(241, 91, 34, 0.20);
+}
+.user_picture{
+    position: relative;
+    top: -195px;
+    left: -20px;
+}
